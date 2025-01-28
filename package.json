@@ -1,0 +1,11 @@
+{
+  "name": "opdracht-deel1",
+  "description": "HTML, Sass & Bootstrap",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sass": "^1.83.4"
+  },
+  "devDependencies": {}
+}
