@@ -3,9 +3,5 @@
   "description": "HTML, Sass & Bootstrap",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "bootstrap": "^5.3.3",
-    "sass": "^1.83.4"
   }
 }
